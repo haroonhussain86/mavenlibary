@@ -8,7 +8,7 @@ public class AudioBookTest {
     @Test
     public void testTitleMethod() {
         // create variables used to define out audioBook properties
-        String audioBookTitle = "Shining";
+        String audioBookTitle = "Top Gear";
         String audioBookCategory = "Sci-Fi";
         String audioBookAuthor = "Haroon Hussain";
         Integer audioBookSize = 250;
