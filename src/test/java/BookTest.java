@@ -1,4 +1,4 @@
-import company.company.*;
+import company.company.Book;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
