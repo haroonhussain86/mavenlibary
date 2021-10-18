@@ -3,10 +3,10 @@ package company.company;
 public class Book implements LibraryItem
 {
     private String title; // To hold title of the item
-    private String category; // To hold title of the item
-    private String author; // To hold title of the item
-    private Integer size;
-    private String type;
+    private String category; // To hold category of the item
+    private String author; // To hold author of the item
+    private Integer size; // To hold size of the item
+    private String type; //  To hold type of the item
 
     //Constructor that accept name as parameter.
     public Book(String title, String category, String author, Integer size )
